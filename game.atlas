@@ -11,7 +11,7 @@ BuildingIcons/Vault
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Alpine Fort
+ImprovementIcons/Alpine Fortress
   rotate: false
   xy: 4, 4
   size: 100, 100
@@ -25,7 +25,7 @@ NationIcons/Switzerland
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Alpine Fort
+TileSets/FantasyHex/Tiles/Alpine Fortress
   rotate: false
   xy: 328, 69
   size: 32, 35
