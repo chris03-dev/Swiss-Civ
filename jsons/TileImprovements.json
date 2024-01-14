@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Alpine Fort",
+		"uniqueTo": "Switzerland",
+		"turnsToBuild": 10,
+		"culture": 2,
+		"terrainsCanBeBuiltOn": ["Hill", "Grassland"],
+		"uniques": [
+			"Must be next to [Mountain]",
+			"Gives a defensive bonus of [75]%",
+			"Adjacent enemy units ending their turn take [10] damage"
+		],
+		"techRequired": "Engineering"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Vault",
+		"uniqueTo": "Switzerland",
+		"replaces": "Bank",
+		"specialistSlots": {"Merchant": 1},
+		"uniques": [
+			"[+2 Gold]",
+			"[+25]% [Gold]",
+			"[+2 Gold] from [Gems] tiles [in this city]",
+			"[+2 Gold] from [Gold Ore] tiles [in this city]",
+			"[+2 Gold] from [Silver] tiles [in this city]"
+		],
+		"hurryCostModifier": 15,
+		"requiredTech": "Economics",
+		"requiredNearbyImprovedResources": ["Gems", "Gold Ore", "Silver"]
+	}
+]
