@@ -8,7 +8,7 @@
 		"uniques": [
 			"Must be next to [Mountain]",
 			"Gives a defensive bonus of [75]%",
-			"Adjacent enemy units ending their turn take [10] damage"
+			"Adjacent enemy units ending their turn take [20] damage"
 		],
 		"techRequired": "Engineering"
 	}
