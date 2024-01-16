@@ -1,0 +1,12 @@
+{
+	"useColorAsBaseTerrain": "false",
+	"fallbackTileSet": null,
+	"ruleVariants": {
+		"Snow+Alpine fortress": ["Snow", "Alpine fortress-Snow"],
+		"Tundra+Alpine fortress": ["Tundra", "Alpine fortress-Snow"],
+		"Grassland+Alpine fortress": ["Grassland", "Alpine fortress"],
+		"Plains+Alpine fortress": ["Plains", "Alpine fortress"],
+		"Desert+Alpine fortress": ["Desert", "Alpine fortress"],
+		
+	}
+}

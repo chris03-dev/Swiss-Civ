@@ -3,7 +3,7 @@
 		"name": "Switzerland",
 		"leaderName": "Jonas Furrer",
 		"adjective": ["Swiss"],
-		"startBias": ["Mountain", "Grassland", "Avoid [Coast]"]
+		"startBias": ["Mountain", "Grassland"]
 		"preferredVictoryType": "Diplomatic",
 		"declaringWar": "I cannot stand your antics any longer! You will soon learn their true cost, in war.",
 		"attacked": "Then war it shall be! Though I'm afraid your ambitions shall soon be put to rest!",
