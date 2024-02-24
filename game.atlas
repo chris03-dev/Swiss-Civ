@@ -6,36 +6,57 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Vault
   rotate: false
-  xy: 220, 4
+  xy: 220, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Alpine fortress
   rotate: false
-  xy: 4, 4
+  xy: 4, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Switzerland
   rotate: false
-  xy: 112, 4
+  xy: 112, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Alpine fortress
   rotate: false
-  xy: 328, 74
+  xy: 400, 36
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Alpine fortress-Snow
   rotate: false
-  xy: 328, 36
+  xy: 458, 94
   size: 32, 30
   orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Alpine fortress
+  rotate: false
+  xy: 328, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Alpine fortress-Snow
+  rotate: false
+  xy: 328, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Push of Pike
+  rotate: false
+  xy: 400, 74
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1

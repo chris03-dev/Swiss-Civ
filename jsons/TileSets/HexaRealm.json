@@ -1,5 +1,6 @@
 {
 	"useColorAsBaseTerrain": "false",
+	"fallbackTileSet": "FantasyHex",
 	"ruleVariants": {
 		"Tundra+Alpine fortress": ["Tundra","Alpine fortress-Snow"],
 		"Tundra+Deer+Alpine fortress": ["Tundra","Deer","Alpine fortress-Snow"],

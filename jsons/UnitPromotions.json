@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Swiss Mercenary",
+		"uniques": [
+			"[+25]% Strength <vs [Landsknecht] units> <when attacking>",
+			"Earn [100]% of the damage done to [City] units as [Gold]",
+			"No movement cost to pillage"
+		],
+		"column": 1
+	},
+	{
+		"name": "Push of Pike",
+		"uniques": [
+			"[+33]% Strength <vs [Spearman] units> <when defending>",
+			"[+33]% Strength <vs [Marauder] units> <when defending>",
+			"[+33]% Strength <vs [Pikeman] units> <when defending>",
+			"[+33]% Strength <vs [Landsknecht] units> <when defending>"
+		],
+		"unitTypes": ["Sword","Gunpowder"],
+		"prerequisites": ["Swiss Mercenary"]
+		"column": 2,
+	}
+]

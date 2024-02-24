@@ -3,22 +3,25 @@
 		"name": "Switzerland",
 		"leaderName": "Jonas Furrer",
 		"adjective": ["Swiss"],
-		"startBias": ["Mountain", "Grassland"]
+		"startBias": ["Mountain", "Avoid [Desert]"],
+		"personality": "Swiss",
 		"preferredVictoryType": "Diplomatic",
 		"declaringWar": "I cannot stand your antics any longer! You will soon learn their true cost, in war.",
 		"attacked": "Then war it shall be! Though I'm afraid your ambitions shall soon be put to rest!",
 		"defeated": "Our defenses have crumbled... but still we will not rest.",
-		"introduction": "Well met! I am Jonas Furrer, hailing from Switzerland, land of renowned fortresses and mercenaries.",
+		"introduction": "Well met! I am Jonas Furrer, hailing from Switzerland. If you are in need of military services, you are speaking to the right man.",
 		"neutralHello": "Hello.",
 		"hateHello": "What now?",
-		"tradeRequest": "I believe this courtesy would help serve both of our interests.",
+		"tradeRequest": "I believe this would help serve both of our interests.",
 		"outerColor": [160, 0, 0],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "National Redoubt",
+		"uniqueName": "Reisläufer",
 		"uniques": [
-			"Gain a free [Walls] [in all cities] <after discovering [Masonry]>",
-			"[+50]% Production when constructing [Pikeman] units [in all cities]"
+			"Gain [30] Influence with a [Pikeman] gift to a City-State",
+			"All newly-trained [Pikeman] units [in all cities] receive the [Swiss Mercenary] promotion",
+			"May buy [Pikeman] units with [Gold] for [2] times their normal Production cost",
+			"Cannot build [Landsknecht] units"
 		],
 		"cities": ["Zürich","Geneva","Bern","Basel","Lausanne","Winterthur","Lucerne","St. Gallen","Fribourg","Chur","Sion","Uster",
 		"Bellinzona","Aarau","Schwyz","Zug","Olten","Wädenswil","Meyrin","Locarno","Carouge","Monthey","Dietikon","Kriens","Spiez","Herisau","Ostermundigen","Lancy","Frauenfeld","Gossau","Rapperswil-Jona","Baden","Kreuzlingen","Regensdorf","Muttenz","Zollikon","Allschwil","Grenchen","Renens","Thalwil","Littau","Montreux","Onex","Kloten","Wil","Vevey","Adliswil","Burgdorf","Yverdon-les-Bains","Steffisburg","Pratteln","Nyon","Solothurn","Emmen","Wetzikon","Sierre","Volketswil","Wettingen","Horgen"]

@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Swiss",
+		"gold": 8,
+		"science": 6,
+		"military": 8,
+		"priorities": {
+			"Patronage": 20,
+			"Commerce": 50,
+			"Rationalism": 20,
+			"Freedom": 20
+		}
+	}
+]
